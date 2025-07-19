@@ -95,3 +95,16 @@ try:
 
 except KeyboardInterrupt:
     GPIO.cleanup()
+
+### 📊 Project Diagrams
+
+#### 🖼️ Sensor Setup Diagram  
+This shows how the ultrasonic sensor is connected to the Raspberry Pi to measure sewage levels.
+
+![Sensor Model](Sensor_model.png)
+
+#### 🛠️ System Architecture Diagram  
+Illustrates the working model and how all components communicate in the Smart Drain Clearance System.
+
+![Working Model Diagram](Working_model_diagram.png)
+

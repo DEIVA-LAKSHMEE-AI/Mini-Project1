@@ -101,7 +101,7 @@ except KeyboardInterrupt:
 #### 🖼️ Sensor Setup Diagram  
 This shows how the ultrasonic sensor is connected to the Raspberry Pi to measure sewage levels.
 
-![Sensor Model](Sensor_model.png)
+![Sensor Model](https://github.com/DEIVA-LAKSHMEE-AI/Mini-Project1/blob/main/Sensor_model.png?raw=true)
 
 #### 🛠️ System Architecture Diagram  
 Illustrates the working model and how all components communicate in the Smart Drain Clearance System.
